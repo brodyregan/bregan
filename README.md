@@ -1,1 +1,1 @@
-This is the repository for my personal website: https://brodyregan.github.io/regan/
+Here is my new website: https://brodyregan.github.io/bregan/
