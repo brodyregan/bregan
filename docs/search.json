@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brody Regan",
+    "section": "",
+    "text": "Instagram\n  \n  \n    \n     Github Repository\n  \n  \n    \n     Email\n  \n\n  \n  \nHi, my name is Brody Regan, and I am a 3rd year Environmental Studies (B.S.) major and Earth Science minor at the University of California, Santa Barbara. My interests and research are about coral reef ecology and marine conservation.\n\n\nUniversity of California, Santa Barbara | Santa Barbara, CA B.S Environmental Studies| September 2022 - present\n\n\n\nCaselle Lab | Undergrad Intern | January 2023 - present\nIV Theater/Embarcadero Hall Operations | Tech Support | December 2023 - present"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Brody Regan",
+    "section": "",
+    "text": "University of California, Santa Barbara | Santa Barbara, CA B.S Environmental Studies| September 2022 - present"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Brody Regan",
+    "section": "",
+    "text": "Caselle Lab | Undergrad Intern | January 2023 - present\nIV Theater/Embarcadero Hall Operations | Tech Support | December 2023 - present"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Band show in Isla Vista\n\n\n\nMusic has always been a significant part of my life. My dad’s love for music had a huge impact on me and I began taking drum lessons at the age of 9. I have been hooked ever since. In 2020, I also picked up the bass guitar and started teaching myself. Since then I have played in about 5 bands switching between bass and drums."
+  },
+  {
+    "objectID": "about.html#music",
+    "href": "about.html#music",
+    "title": "About Me",
+    "section": "",
+    "text": "Band show in Isla Vista\n\n\n\nMusic has always been a significant part of my life. My dad’s love for music had a huge impact on me and I began taking drum lessons at the age of 9. I have been hooked ever since. In 2020, I also picked up the bass guitar and started teaching myself. Since then I have played in about 5 bands switching between bass and drums."
+  },
+  {
+    "objectID": "about.html#surfing",
+    "href": "about.html#surfing",
+    "title": "About Me",
+    "section": "Surfing",
+    "text": "Surfing\n\n\nGrowing up in San Diego, California, I have loved going to the beach and spending time in the water. When the Covid lock down occurred, I had lots of free time to surf and play music. Since then, I try to get in the water at least once a week and have been fortunate enough to have gone a couple surf trips in Mexico.\n\n\n\n\nBaja California, Mexico"
+  },
+  {
+    "objectID": "about.html#personal-research",
+    "href": "about.html#personal-research",
+    "title": "About Me",
+    "section": "Personal Research",
+    "text": "Personal Research\n\n\n\n\n\nPalmyra Atoll. Credit: Nasa Earth Observatory\n\n\n\nThrough the Caselle Lab at UCSB, I am beginning a personal research project. I am using data taken at Palmyra Atoll, an island in the Central Pacific. The data includes 3d models of coral reef sections and fish videos, both taken at respective exclusion cages. The goal of this project is to identify the relationship surgeon and damsel fish have with coral reef recovery rates."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Diving",
+    "section": "",
+    "text": "I love scuba/free-diving and spearfishing, and have been able to record many dives on my go-pro. Provided below are screen shots from some of the videos and the major species present. They are organized by location."
+  },
+  {
+    "objectID": "hobbies.html#devereux",
+    "href": "hobbies.html#devereux",
+    "title": "Diving",
+    "section": "Devereux",
+    "text": "Devereux\n\n\n\n\nSpecies: Shovelnose Guitar Fish\n\n\n\n\n\n\nSpecies: California Spiny Lobster\n\n\n\n\n\n\nSpecies: California Spiny Lobster\n\n\n\n\n\n\nSpecies: Horn Shark\n\n\n\n\n\n\nSpecies: Sheep Crab"
+  },
+  {
+    "objectID": "hobbies.html#california-channel-islands",
+    "href": "hobbies.html#california-channel-islands",
+    "title": "Diving",
+    "section": "California Channel Islands",
+    "text": "California Channel Islands\n\n\n\n\nSpecies: California Sheep head, Garibaldi, Blacksmith\n\n\n\n\n\n\nSpecies: Calico Bass\n\n\n\n\n\n\nSpecies: Giant Black Sea Bass"
+  },
+  {
+    "objectID": "hobbies.html#chileno-bay-mexico",
+    "href": "hobbies.html#chileno-bay-mexico",
+    "title": "Diving",
+    "section": "Chileno Bay, Mexico",
+    "text": "Chileno Bay, Mexico\n\n\n\n\nSpecies: Convict Tang\n\n\n\n\n\n\nSpecies: Yellow Tail Surgeonfish"
+  },
+  {
+    "objectID": "hobbies.html#la-paz-mexico",
+    "href": "hobbies.html#la-paz-mexico",
+    "title": "Diving",
+    "section": "La Paz, Mexico",
+    "text": "La Paz, Mexico\n\n\n\n\nSpecies: Crown of Thorns Starfish\n\n\n\n\n\n\nSpecies: Parrotfish specie, King Angelfish"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Code Input for the Problem\n\n\n\n\n\n\nFigure 1: Burned sites tend to have larger tussock heights. Data Source: Rocha, A. 2021, Tussok Height csv. Points represent observations of average tussock height (cm) at site location (burned or unburned). The center black dots represent the mean height, and the bars represent the standard error, both respective to their site. Colors represent site (red = burned, dark green = unburned).\n\n\n\nIn this problem, I worked with a data set from “Rocha, A. 2021: Tussock height and diameter in moist acidic tussock tundra at the site of the 2007 Anaktuvuk River fire scar, and nearby unburned tundra measured in 2016 ver 1. Environmental Data Initiative.” The dataset includes information about the Tussock (a type of grass) height in burned and unburned regions to study how ecosystems recover after a fire.\nIn my code, I loaded the data set and summary statistics which included the mean, standard error, and individual data points. Using the ggplot function, I created a jitter plot with the mean and standard error. Within the code, I adjusted the colors, jitter offset, theme, labels, mean/standard error aesthetics, and more.\nCreating a jitter plot allowed me to visually see the difference in means. It effectively worked in this situation because there were only to sites to compare and the data was normally distributed. The mean is an important aspect to compare because it provides the best idea as to what the population is generally like. The standard error is also important to include because it [gives a clue to how accurate the mean is and how wide the data range is provides precision and variability of the mean. Based on the visualization, it appears that on average, tussocks grow taller after a fire."
+  },
+  {
+    "objectID": "project.html#code-displayed-below-is-the-code-and-figure-from-data-used-in-the-envs-193ds-course-at-ucsb",
+    "href": "project.html#code-displayed-below-is-the-code-and-figure-from-data-used-in-the-envs-193ds-course-at-ucsb",
+    "title": "Projects",
+    "section": "",
+    "text": "Code Input for the Problem\n\n\n\n\n\n\nFigure 1: Burned sites tend to have larger tussock heights. Data Source: Rocha, A. 2021, Tussok Height csv. Points represent observations of average tussock height (cm) at site location (burned or unburned). The center black dots represent the mean height, and the bars represent the standard error, both respective to their site. Colors represent site (red = burned, dark green = unburned).\n\n\n\nIn this problem, I worked with a data set from “Rocha, A. 2021: Tussock height and diameter in moist acidic tussock tundra at the site of the 2007 Anaktuvuk River fire scar, and nearby unburned tundra measured in 2016 ver 1. Environmental Data Initiative.” The dataset includes information about the Tussock (a type of grass) height in burned and unburned regions to study how ecosystems recover after a fire.\nIn my code, I loaded the data set and summary statistics which included the mean, standard error, and individual data points. Using the ggplot function, I created a jitter plot with the mean and standard error. Within the code, I adjusted the colors, jitter offset, theme, labels, mean/standard error aesthetics, and more.\nCreating a jitter plot allowed me to visually see the difference in means. It effectively worked in this situation because there were only to sites to compare and the data was normally distributed. The mean is an important aspect to compare because it provides the best idea as to what the population is generally like. The standard error is also important to include because it [gives a clue to how accurate the mean is and how wide the data range is provides precision and variability of the mean. Based on the visualization, it appears that on average, tussocks grow taller after a fire."
+  },
+  {
+    "objectID": "project.html#aster-data-displayed-below-is-an-individual-project-i-created-for-an-earth-science-class",
+    "href": "project.html#aster-data-displayed-below-is-an-individual-project-i-created-for-an-earth-science-class",
+    "title": "Projects",
+    "section": "ASTER Data: Displayed below is an individual project I created for an Earth Science class",
+    "text": "ASTER Data: Displayed below is an individual project I created for an Earth Science class\n\n\n\nShell Reef ASTER Map\n\n\n\n\n\n\nSplit Mountain Topography Map\n\n\nThese are figures from my independent project from the Earth 104G course at UCSB. My goal was determine geological factors that influence composition and structure of formations in the Anza Borrego region, Southern California.\nIn the first map, I used NASA ASTER data to create an overlay of different types of sedimentary rocks shown by the different colors. RASTER Math equations allowed me to take multiple ASTER images and create an RBG image. Based on historical data, we can see how the different compositions of rocks correlate with where ancient river and ocean beds used to be.\nIn the second map, I used Digital Elevation Maps from the USGS data system to create a topography map in QGIS. Using other functions, I show where water drains giving insight about how rainfall and rivers formed the divide down the center of the moutain range."
+  }
+]

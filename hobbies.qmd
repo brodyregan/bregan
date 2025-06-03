@@ -1,0 +1,134 @@
+---
+title: "Diving"
+format: html
+---
+
+I love scuba/free-diving and spearfishing, and have been able to record many dives on my go-pro. Provided below are screen shots from some of the videos and the major species present. They are organized by location.  
+
+## Devereux
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5787.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Shovelnose Guitar Fish
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5777.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: California Spiny Lobster
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5779.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: California Spiny Lobster
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5780.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Horn Shark
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5783.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Sheep Crab
+:::
+:::::
+
+## California Channel Islands
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5776.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: California Sheep head, Garibaldi, Blacksmith 
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5784.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Calico Bass
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5786.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Giant Black Sea Bass
+:::
+:::::
+
+## Chileno Bay, Mexico
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5774.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Convict Tang
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5775.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Yellow Tail Surgeonfish
+:::
+:::::
+
+## La Paz, Mexico
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5781.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Crown of Thorns Starfish
+:::
+:::::
+
+::::: columns
+::: {.column width="40%"}
+![](images/IMG_5782.JPEG)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Species: Parrotfish specie, King Angelfish
+:::
+:::::

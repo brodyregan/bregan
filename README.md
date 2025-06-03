@@ -1,2 +1,1 @@
-# bregan
-This is the newest repository for my website after errors in the previous one.
+This is the repository for my personal website: https://brodyregan.github.io/regan/
