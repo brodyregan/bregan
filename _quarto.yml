@@ -15,8 +15,10 @@ website:
 
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme: 
+    - yeti
+    - styles.scss
+    mainfont: Raleway
     toc: true
     page-layout: full
 
