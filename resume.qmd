@@ -2,4 +2,10 @@
 title: "Resume"
 format: html
 ---
-<iframe src="Current Resume - Brody Regan.pdf"></iframe>
+
+<iframe 
+  src="Current Resume - Brody Regan.pdf" 
+  width="100%" 
+  height="1000px" 
+  style="border: none;">
+</iframe>
