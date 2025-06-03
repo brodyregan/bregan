@@ -97,7 +97,7 @@ Species: Giant Black Sea Bass
 :::
 
 ::: {.column width="60%" style="padding-left: 30px;"}
-Species: Convict Tang
+Species: Convict Tang, Sgt. Major 
 :::
 :::::
 
