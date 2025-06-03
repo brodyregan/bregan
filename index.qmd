@@ -29,10 +29,13 @@ University of California, Santa Barbara \| Santa Barbara, CA B.S Environmental S
 Caselle Lab \| Undergrad Intern \| January 2023 - present
 
 IV Theater/Embarcadero Hall Operations \| Tech Support \| December 2023 - present
-:::
 
 ## Resume
 
 [📄 View My Resume (PDF)](Current Resume - Brody Regan.pdf){target="_blank"}
 
 <iframe src="Current Resume - Brody Regan.pdf"></iframe>
+
+:::
+
+
