@@ -53,7 +53,7 @@
     "href": "hobbies.html",
     "title": "Diving",
     "section": "",
-    "text": "I love scuba/free-diving and spearfishing, and have been able to record many dives on my go-pro. Provided below are screen shots from some of the videos and the major species present. They are organized by location."
+    "text": "I love scuba/free-diving and spearfishing, and have been able to record many dives on my go-pro. Provided below is an interactive map showing some of the diving spots I have been to along the West Coast and screen shots from videos I took there showing the major species present. They are organized by location."
   },
   {
     "objectID": "hobbies.html#devereux",
@@ -117,5 +117,12 @@
     "title": "Brody Regan",
     "section": "",
     "text": "📄 View My Resume (PDF)"
+  },
+  {
+    "objectID": "hobbies.html#interactive-arcgis-map",
+    "href": "hobbies.html#interactive-arcgis-map",
+    "title": "Diving",
+    "section": "Interactive ArcGIS Map",
+    "text": "Interactive ArcGIS Map\n\n\n\n\n \n\n\nDevereux\n\n\n\n\nSpecies: Shovelnose Guitar Fish\n\n\n\n\n\n\nSpecies: California Spiny Lobster\n\n\n\n\n\n\nSpecies: California Spiny Lobster\n\n\n\n\n\n\nSpecies: Horn Shark\n\n\n\n\n\n\nSpecies: Sheep Crab\n\n\n\n\nCalifornia Channel Islands\n\n\n\n\nSpecies: California Sheep head, Garibaldi, Blacksmith\n\n\n\n\n\n\nSpecies: Calico Bass\n\n\n\n\n\n\nSpecies: Giant Black Sea Bass\n\n\n\n\nChileno Bay, Mexico\n\n\n\n\nSpecies: Convict Tang, Sgt. Major\n\n\n\n\n\n\nSpecies: Yellow Tail Surgeonfish\n\n\n\n\nLa Paz, Mexico\n\n\n\n\nSpecies: Crown of Thorns Starfish\n\n\n\n\n\n\nSpecies: Parrotfish specie, King Angelfish"
   }
 ]

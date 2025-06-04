@@ -119,10 +119,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#devereux" id="toc-devereux" class="nav-link active" data-scroll-target="#devereux">Devereux</a></li>
-  <li><a href="#california-channel-islands" id="toc-california-channel-islands" class="nav-link" data-scroll-target="#california-channel-islands">California Channel Islands</a></li>
-  <li><a href="#chileno-bay-mexico" id="toc-chileno-bay-mexico" class="nav-link" data-scroll-target="#chileno-bay-mexico">Chileno Bay, Mexico</a></li>
-  <li><a href="#la-paz-mexico" id="toc-la-paz-mexico" class="nav-link" data-scroll-target="#la-paz-mexico">La Paz, Mexico</a></li>
+  <li><a href="#interactive-arcgis-map" id="toc-interactive-arcgis-map" class="nav-link active" data-scroll-target="#interactive-arcgis-map">Interactive ArcGIS Map</a></li>
   </ul>
 </nav>
     </div>
@@ -148,9 +145,15 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I love scuba/free-diving and spearfishing, and have been able to record many dives on my go-pro. Provided below are screen shots from some of the videos and the major species present. They are organized by location.</p>
-<iframe width="100%" height="600" frameborder="0" scrolling="no" allowfullscreen="" src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=1553891d336145118ac04312f051653e">
-</iframe>
+<p>I love scuba/free-diving and spearfishing, and have been able to record many dives on my go-pro. Provided below is an interactive map showing some of the diving spots I have been to along the West Coast and screen shots from videos I took there showing the major species present. They are organized by location.</p>
+<section id="interactive-arcgis-map" class="level2">
+<h2 class="anchored" data-anchor-id="interactive-arcgis-map">Interactive ArcGIS Map</h2>
+<div id="arcgis-map">
+<!-- Load ArcGIS embeddable components -->
+<script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script>
+<!-- Embed the ArcGIS web map -->
+<p><arcgis-embedded-map style="height:600px;width:100%;" item-id="1553891d336145118ac04312f051653e" theme="dark" heading-enabled="" share-enabled="" portal-url="https://www.arcgis.com"> </arcgis-embedded-map></p>
+<p><br><br></p>
 <section id="devereux" class="level2">
 <h2 class="anchored" data-anchor-id="devereux">Devereux</h2>
 <div class="columns">
@@ -248,6 +251,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+</section>
+</div>
 </section>
 
 </main> <!-- /main -->
