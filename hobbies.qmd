@@ -5,6 +5,16 @@ format: html
 
 I love scuba/free-diving and spearfishing, and have been able to record many dives on my go-pro. Provided below are screen shots from some of the videos and the major species present. They are organized by location.  
 
+
+
+<iframe width="100%" height="600" frameborder="0" scrolling="no" allowfullscreen
+src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=1553891d336145118ac04312f051653e">
+</iframe>
+
+
+
+
+
 ## Devereux
 
 ::::: columns
